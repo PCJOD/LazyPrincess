@@ -18,4 +18,6 @@ cd /LazyPrincess
 
 pip3 install -U -r requirements.txt
 
-echo "Starting Bot....by PC 📡"
+echo "Starting Bot...."
+
+python3 bot.py
